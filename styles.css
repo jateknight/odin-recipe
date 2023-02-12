@@ -1,0 +1,38 @@
+.magic {
+  text-align: center;
+  background-color: beige;
+  font-size: 28px;
+  font-weight: 800;
+}
+
+.magic.another {
+  color: red;
+}
+
+.magic.yet-another {
+  color: green;
+}
+
+div {
+  background-color: rgb(187, 156, 233);
+}
+
+img {
+  width: 400px;
+  height: auto;
+}
+
+ul {
+  background-color: aquamarine;
+  color: rgb(168, 60, 168);
+}
+
+ol {
+  background-color: rgb(53, 18, 5);
+  color: goldenrod;
+}
+
+h2,
+a {
+  background-color: rgb(172, 245, 247);
+}
